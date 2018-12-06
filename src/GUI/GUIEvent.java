@@ -58,7 +58,7 @@ public final class GUIEvent {
 
 		return;
 	}
-
+	
 	public char getKeyChar() {
 		return this.keyChar;
 	}

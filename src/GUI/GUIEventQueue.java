@@ -150,7 +150,7 @@ public final class GUIEventQueue implements KeyListener, MouseListener, MouseMot
 		this.eventToProcess = process;
 		return;
 	}
-
+	
 	public void setMaxQueueLength(int length) {
 
 		this.maxQueueLength = length;

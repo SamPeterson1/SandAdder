@@ -24,6 +24,7 @@ public class GUICanvas extends Canvas {
 	}
 	
 	
+	
 	public void draw(Graphics2D g2, SandBox sb) {
 		if(wasteMyTime) {
 			BufferedImage img = new BufferedImage(this.width, this.height, BufferedImage.TYPE_INT_ARGB);
